@@ -12,3 +12,4 @@ change in hotfix branch
 
 change in hotfix 1
 change in hotfix 2 
+change in hotfix 3
