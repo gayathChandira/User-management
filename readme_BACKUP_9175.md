@@ -8,8 +8,8 @@ This project contains
 
 a change is done by hot-fix branch.
 
-
+<<<<<<< HEAD
 this change is done by master branch.
-
+=======
 change in hotfix branch....
-conflicts are resolved 
+>>>>>>> hot-fix
