@@ -10,7 +10,6 @@ a change is done by hot-fix branch.
 
 
 this change is done by master branch.
-
 change in hotfix branch....
 conflicts are resolved 
 change in hotfix 1
