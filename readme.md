@@ -7,3 +7,5 @@ This project contains
     + to run, mvn jetty:run 
 
 a change is done by hot-fix branch.
+
+this change is done by master branch.
